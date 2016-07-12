@@ -29,6 +29,8 @@ function preload() {
   game.load.image("spriteImg", "assets/mariosprite.png");
   game.load.audio("score", "assets/point.ogg");
 
+  
+
   game.load.image("pipeBlock","assets/football.png");
   game.load.image("backgroundImg", "assets/background.jpg");
 }
