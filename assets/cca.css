@@ -17,7 +17,11 @@ body {
 }
 #cca {
     padding-top: 5%;
+<<<<<<< HEAD
     padding-left: 55%;
+=======
+    padding-left: 60%;
+>>>>>>> origin/gh-pages
     padding-bottom: 20px;
 }
 #header p{
